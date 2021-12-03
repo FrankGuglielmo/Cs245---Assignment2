@@ -26,8 +26,6 @@ public class Spelling extends Trie2{
             //suggestions.get(i).sort(Collections.max(frequencyList.values()));
         //}
 
-
-
     }
 
 
